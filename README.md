@@ -8,6 +8,7 @@ This repository contains various data scraping scripts and tools developed using
 ## Overview
 
 The `data_scrapers` directory includes different scraping scripts designed to extract data from diverse sources. Each script is tailored to scrape specific websites or APIs.
+The website that we have used in the repo is https://quotes.toscrape.com/, scraping title, author and tags.
 
 ## Usage
 
